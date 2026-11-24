@@ -1,0 +1,33 @@
+Style: Ancient Greek Residential House / Agora
+Reference images - categories and counts
+
+Building exteriors (full buildings, multiple angles): 3
+  - GREK_01 Stoa of Attalos - front
+  - GREK_04 Temple of Hephaestus - corner view from the Agora
+  - GREK_07 Clay model of a Greek house - overall massing
+
+Columns & colonnades (pillars, capitals, porticoes): 3
+  - GREK_02 Stoa of Attalos - colonnade, side perspective
+  - GREK_03 Stoa of Attalos - portico interior, wooden ceiling beams
+  - GREK_12 Ionic capital - detail
+
+Roofs & roof tiles: 2
+  - GREK_05 House of Dionysos (Pella) - model with tiled roofs
+  - GREK_13 Terracotta antefix - roof tile ending
+
+Walls & masonry (stonework, foundations, wear): 2
+  - GREK_10 Delos Theatre Quarter - house walls, thresholds
+  - GREK_14 Polygonal (Lesbian) masonry - stone wall texture
+
+Windows & doors: 1
+  - GREK_09 House of the Trident (Delos) - street window
+
+Courtyards & house layout (peristyle, floor plans): 3
+  - GREK_06 House of Dionysos (Pella) - peristyle courtyard, foundations
+  - GREK_08 House of the Masks (Delos) - aerial view of rooms around courtyard
+  - GREK_11 Plan of a Greek house - floor plan
+
+Floors & surface decoration: 1
+  - GREK_15 House of Dionysus (Delos) - floor mosaic
+
+TOTAL: 15 images
