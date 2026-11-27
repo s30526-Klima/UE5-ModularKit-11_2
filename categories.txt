@@ -1,0 +1,7 @@
+columns - 21
+rooftops - 10
+walls - 15
+textures - 11
+minecraft - 1
+blueprints - 2
+
